@@ -1,5 +1,5 @@
 ## Instalation
 
 ```bash
-go get -u github.com/Shacrom/greetings
+go get -u github.com/shacrom/greetings
 ```
